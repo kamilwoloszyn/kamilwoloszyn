@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @kamilwoloszyn
-- 👀 I’m interested in programming, life, saab cars, bike riding ..  
-- 🌱 I’m currently learning Golang (expert level)
-- 💞️ I’m looking to collaborate on e-commerce stories using golang
-- 📫 How to reach me ? Only via email: kamil.woloszyn1@gmail.com
+- 📫 Contact only via email: kamil.woloszyn1@gmail.com
 
 
 <!---
